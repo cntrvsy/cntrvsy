@@ -1,4 +1,3 @@
-## Hey im a full stack developer mostly using Typescript and Rust.
+## Hey im a full stack software engineer mostly using Typescript and Rust.
 
-- Svelte/kit, Tauri
-- you can and should reach me via my website...
+idk what else you want from me.
